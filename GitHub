@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primera versión: Hola Mundo con Flask y MySQL en Docker"
+# Crea un repositorio en GitHub y reemplaza aquí la URL
+git remote add origin https://github.com/tu_usuario/hola_mundo.git
+git push -u origin master
